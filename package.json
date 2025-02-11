@@ -118,7 +118,7 @@
   },
   "dependencies": {
     "@vscode/webview-ui-toolkit": "^1.4.0",
-    "esbuild": "^0.19.11",
+    "esbuild": "^0.25.0",
     "fuse.js": "^7.0.0"
   }
 }
